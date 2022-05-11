@@ -1,0 +1,10 @@
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\bin\Debug\Practica entornos T6.exe.config
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\bin\Debug\Practica entornos T6.exe
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\bin\Debug\Practica entornos T6.pdb
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\obj\Debug\Practica entornos T6.csproj.AssemblyReference.cache
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\obj\Debug\Practica_entornos_T6.Form1.resources
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\obj\Debug\Practica_entornos_T6.Properties.Resources.resources
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\obj\Debug\Practica entornos T6.csproj.GenerateResource.cache
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\obj\Debug\Practica entornos T6.csproj.CoreCompileInputs.cache
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\obj\Debug\Practica entornos T6.exe
+C:\Users\zoughbi21940\Source\Repos\Andreacano95\practica_entornos\Practica entornos T6\obj\Debug\Practica entornos T6.pdb
